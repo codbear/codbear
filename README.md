@@ -1,6 +1,6 @@
-## Front-End developer
+## Front-End engineer
 
-- 🔭 Working for OpenClassrooms as an apprentice
+- 🔭 Working for OpenClassrooms
 - 🌱 Learning everything I can
 
 ## Expertise

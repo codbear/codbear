@@ -11,12 +11,12 @@
 
 ### 🧑‍💻 About Me
 
-Développeur passionné avec un parcours qui a évolué du **Front-End** vers la **cybersécurité**. Après une formation chez OpenClassrooms et plusieurs années à construire des applications web modernes en React / TypeScript, je me suis orienté vers l'analyse de malwares, l'automatisation de la sécurité et la threat intelligence.
+A passionate developer whose journey evolved from **Front-End** to **cybersecurity**. After training with OpenClassrooms and several years building modern web applications with React / TypeScript, I shifted toward malware analysis, security automation, and threat intelligence.
 
-- 🔭 Actuellement, je travaille sur des projets liés à la **cybersécurité** et à l'**analyse de menaces**
-- 🛡️ Je développe des outils de **détection de malwares** et d'**analyse automatisée**
-- 💻 Je continue à construire des applications **full-stack** en parallèle
-- 🌱 Toujours en apprentissage — curiosité sans limites
+- 🔭 I’m currently working on projects related to **cybersecurity** and **threat analysis**
+- 🛡️ I build tools for **malware detection** and **automated analysis**
+- 💻 I continue building **full-stack** applications in parallel
+- 🌱 Always learning — curiosity without limits
 
 ---
 
@@ -61,14 +61,14 @@ Développeur passionné avec un parcours qui a évolué du **Front-End** vers la
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🔬 malware-scanner](https://github.com/codbear/malware-scanner) | Scanner de malwares basé sur des règles YARA | ![YARA](https://img.shields.io/badge/-YARA-EE3124?style=flat-square) |
-| [🧠 cortex_analyzers](https://github.com/codbear/cortex_analyzers) | Analyseurs personnalisés pour la plateforme Cortex (TheHive) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [📋 crcc-watchlist](https://github.com/codbear/crcc-watchlist) | Outil de gestion de watchlists pour la threat intelligence | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [🤖 RatBot](https://github.com/codbear/RatBot) | Bot automatisé en Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [⛵ SailTogether](https://github.com/codbear/SailTogether) | Bot Discord de matchmaking pour Sea of Thieves | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [📊 reactable](https://github.com/codbear/reactable) | Composant React pour des tableaux de données | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| [📚 Thot](https://github.com/codbear/Thot) | Système de gestion de bibliothèque en Next.js | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| [📖 Atoum](https://github.com/codbear/Atoum) | API Symfony pour la gestion de livres | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [🔬 malware-scanner](https://github.com/codbear/malware-scanner) | YARA rule-based malware scanner | ![YARA](https://img.shields.io/badge/-YARA-EE3124?style=flat-square) |
+| [🧠 cortex_analyzers](https://github.com/codbear/cortex_analyzers) | Custom analyzers for the Cortex platform (TheHive) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [📋 crcc-watchlist](https://github.com/codbear/crcc-watchlist) | Watchlist management tool for threat intelligence | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [🤖 RatBot](https://github.com/codbear/RatBot) | Automated Python bot | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [⛵ SailTogether](https://github.com/codbear/SailTogether) | Discord matchmaking bot for Sea of Thieves | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [📊 reactable](https://github.com/codbear/reactable) | React component for data tables | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [📚 Thot](https://github.com/codbear/Thot) | Library management system built with Next.js | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [📖 Atoum](https://github.com/codbear/Atoum) | Symfony API for book management | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 
 ---
 
@@ -86,6 +86,5 @@ Développeur passionné avec un parcours qui a évolué du **Front-End** vers la
 ---
 
 <p align="center">
-  <i>« La curiosité est le moteur de l'accomplissement. »</i>
+  <i>“Curiosity is the engine of achievement.”</i>
 </p>
-

@@ -61,7 +61,7 @@ A passionate developer whose journey evolved from **Front-End** to **cybersecuri
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🔬 malware-scanner](https://github.com/codbear/malware-scanner) | YARA rule-based with CAPA/OLEVBA/VT enrichment malware scanner | ![YARA](https://img.shields.io/badge/-YARA-EE3124?style=flat-square) |
+| [🔬 malware-scanner](https://github.com/codbear/malware-scanner) | YARA rule-based with CAPA/OLEVBA/VT enrichment malware scanner | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [🧠 cortex_analyzers](https://github.com/codbear/cortex_analyzers) | Custom analyzers for the Cortex platform (TheHive) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [📋 crcc-watchlist](https://github.com/codbear/crcc-watchlist) | Watchlist management tool for Twitch | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [🤖 RatBot](https://github.com/codbear/RatBot) | Automated Python bot for Discord | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
